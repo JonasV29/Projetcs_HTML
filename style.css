@@ -1,0 +1,50 @@
+h1 {
+    color:black;
+    border: 5px solid;
+    background-color:silver;
+    width: 200px;
+    margin: 100px 30px;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-style: italic;
+}
+
+h2 {
+    border: 10px solid;
+    background-color: red;
+    width: 140px;
+    padding: 20px;
+    margin: 100px 30px;
+    font-family:sans-serif;
+    font-style: italic;
+
+}
+
+#miles {
+    color:red;
+    border: 10px solid red;
+    background-color:black;
+    width:135px;
+    margin: 100px 30px;
+    padding: 20px;
+}
+
+h3{
+    color:red;
+    border: 10px solid red;
+    background-color:blue;
+    width:135px;
+    margin: 100px 30px;
+    padding: 20px;
+}
+
+
+h4 {
+    border: 10px solid;
+    background-color: #ff6600;
+    width: 150px;
+    margin: 100px 30px;
+    padding: 20px;
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
